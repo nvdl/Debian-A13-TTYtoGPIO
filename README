@@ -1,0 +1,2 @@
+This is a module to create a virtual serial port through GPIO lines.
+Currently, only the handshaking signals are supported.
